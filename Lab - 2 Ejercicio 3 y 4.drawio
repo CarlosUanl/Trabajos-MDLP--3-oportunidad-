@@ -4,6 +4,39 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="84JKLHhIpNaMjtRcndb6-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-1" target="84JKLHhIpNaMjtRcndb6-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="40" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-2" target="84JKLHhIpNaMjtRcndb6-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-2" value="&quot;Ingresar 1° número&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-3" target="84JKLHhIpNaMjtRcndb6-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-3" value="N. 1°" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="250" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-4" target="84JKLHhIpNaMjtRcndb6-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-4" value="&quot;Ingresar 2° número&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-5" target="84JKLHhIpNaMjtRcndb6-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-5" value="N. 2°" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="430" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="84JKLHhIpNaMjtRcndb6-10" value="N. 1° &amp;gt; N. 2°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="180" y="510" width="120" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
