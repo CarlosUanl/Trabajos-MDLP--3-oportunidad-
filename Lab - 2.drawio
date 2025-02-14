@@ -19,6 +19,9 @@
         <mxCell id="ODquyuXMhCRUw1BkOLDp-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ODquyuXMhCRUw1BkOLDp-4" target="ODquyuXMhCRUw1BkOLDp-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="ODquyuXMhCRUw1BkOLDp-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="ODquyuXMhCRUw1BkOLDp-4" target="ODquyuXMhCRUw1BkOLDp-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="ODquyuXMhCRUw1BkOLDp-4" value="Numero &amp;gt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="344.5" y="230" width="139" height="80" as="geometry" />
         </mxCell>
@@ -27,6 +30,12 @@
         </mxCell>
         <mxCell id="ODquyuXMhCRUw1BkOLDp-8" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="492" y="240" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ODquyuXMhCRUw1BkOLDp-10" value="Numero &amp;lt; 0" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="344" y="370" width="140" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ODquyuXMhCRUw1BkOLDp-12" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="410" y="308" width="40" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
