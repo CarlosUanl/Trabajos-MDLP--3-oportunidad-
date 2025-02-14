@@ -8,36 +8,36 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-1" value="Inicio" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="170" y="40" width="140" height="80" as="geometry" />
+          <mxGeometry x="200" y="40" width="140" height="80" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-2" target="84JKLHhIpNaMjtRcndb6-3">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-2" value="&quot;Ingresar 1° número&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-3" target="84JKLHhIpNaMjtRcndb6-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-3" value="N. 1°" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="250" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="250" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-4" target="84JKLHhIpNaMjtRcndb6-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-4" value="&quot;Ingresar 2° número&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="330" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="330" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-5" target="84JKLHhIpNaMjtRcndb6-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-5" value="N. 2°" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="430" width="120" height="40" as="geometry" />
+          <mxGeometry x="210" y="430" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-10" target="84JKLHhIpNaMjtRcndb6-12">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="120" y="550" />
+              <mxPoint x="150" y="550" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -45,21 +45,21 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-10" value="N. 1° &amp;gt; N. 2°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="510" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="510" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-12" target="84JKLHhIpNaMjtRcndb6-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-12" value="&quot;El 1° número es mayor&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="60" y="600" width="120" height="60" as="geometry" />
+          <mxGeometry x="90" y="600" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-14" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="150" y="530" width="30" height="30" as="geometry" />
+          <mxGeometry x="180" y="530" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-15" target="84JKLHhIpNaMjtRcndb6-17">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="360" y="710" />
+              <mxPoint x="390" y="710" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -67,28 +67,28 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-15" value="N. 1° &amp;lt; N. 2°" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="670" width="120" height="80" as="geometry" />
+          <mxGeometry x="210" y="670" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-17" target="84JKLHhIpNaMjtRcndb6-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-17" value="&quot;El 2° número es mayor&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="300" y="760" width="120" height="60" as="geometry" />
+          <mxGeometry x="330" y="760" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-19" value="Si" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="295" y="688" width="30" height="30" as="geometry" />
+          <mxGeometry x="325" y="688" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-20" value="No" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="230" y="588" width="40" height="30" as="geometry" />
+          <mxGeometry x="260" y="588" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="84JKLHhIpNaMjtRcndb6-21" target="84JKLHhIpNaMjtRcndb6-25">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-21" value="&quot;Los números son iguales&quot;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="840" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="840" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="84JKLHhIpNaMjtRcndb6-25" value="Fin" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="930" width="120" height="60" as="geometry" />
+          <mxGeometry x="210" y="930" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
